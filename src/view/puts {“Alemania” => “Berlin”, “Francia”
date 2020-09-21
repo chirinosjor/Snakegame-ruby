@@ -1,0 +1,1 @@
+puts {“Alemania” => “Berlin”, “Francia” => “Paris”}.keys.sort[-1][0]
